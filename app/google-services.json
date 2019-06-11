@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471081527684",
+    "firebase_url": "https://kerjasementara-8021e.firebaseio.com",
+    "project_id": "kerjasementara-8021e",
+    "storage_bucket": "kerjasementara-8021e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471081527684:android:bd03eca3ab18b971",
+        "android_client_info": {
+          "package_name": "com.andika.kerjasementara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471081527684-20tj8occ66f4f808gdgknc6neip7t896.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIP1-AOzl_4SK8Qdo9ZjQCm196bckmQNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471081527684-20tj8occ66f4f808gdgknc6neip7t896.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
